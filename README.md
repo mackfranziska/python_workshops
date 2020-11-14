@@ -1,4 +1,4 @@
-# python_workshops
+# Python ML Workshop
 
 ## Summary
 
@@ -6,7 +6,7 @@ This is an intro to Machine Learning with Python and the scikit-learn library, a
 
 ## Setup
 
-Please make sure to have the following libraries installed:
+We'll be using following libraries:
 
 - numpy
 - pandas
@@ -14,9 +14,9 @@ Please make sure to have the following libraries installed:
 
 ## Agenda
 
-1. Intro: What is Machine Learning?
-2. Relevant libraries: numpy, pandas and scikit-learn
-3. Training a text classification model
+1. What is Machine Learning?
+2. Intro to relevant libraries: numpy, pandas and scikit-learn
+3. Building a text classification model
 
 ## References
 
